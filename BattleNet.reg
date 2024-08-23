@@ -1,0 +1,23 @@
+REGEDIT4
+
+[HKEY_CURRENT_USER\Software\Battle.net]
+
+[HKEY_CURRENT_USER\Software\Battle.net\Configuration]
+"Server List"="exodus.battle.net"
+"Battle.net gateways"=hex(7):31,30,30,31,00,30,31,00,73,65,72,76,65,72,2e,66,\
+  73,67,73,2e,6e,65,74,00,31,00,46,53,47,53,00,6c,75,72,6b,65,72,2e,77,65,62,\
+  6e,65,78,74,2e,63,6f,6d,00,31,00,42,52,4f,44,57,41,52,53,00,32,30,36,2e,31,\
+  36,35,2e,31,31,31,2e,32,35,31,00,31,00,42,41,54,54,4c,45,20,4e,45,54,00,31,\
+  39,32,2e,31,36,38,2e,30,2e,31,00,31,00,49,50,20,4c,41,4e,20,50,41,52,54,59,\
+  00,31,39,32,2e,31,36,38,2e,30,2e,31,00,31,00,49,50,20,50,52,49,56,41,44,4f,\
+  00,00,00
+
+[HKEY_CURRENT_USER\Software\Battle.net\Characters]
+"Names"=hex(7):45,64,73,6f,6e,31,37,00
+
+[HKEY_CURRENT_USER\Software\Battle.net\Recent Games]
+"53455850000000c3"="2vs2-Good Team Play"
+
+[HKEY_CURRENT_USER\Software\Battle.net\Preferences]
+"Join Filter"="Arriba Contra Abajo"
+

@@ -1,0 +1,378 @@
+{\rtf1\ansi\ansicpg1252\uc1 \deff0\deflang1033\deflangfe1033{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f1\fswiss\fcharset0\fprq2{\*\panose 020b0604020202020204}Arial;}{\f16\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}Federation;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}{\stylesheet{\nowidctlpar\widctlpar\adjustright \fs20\lang3082\cgrid \snext0 Normal;}{\s1\keepn\nowidctlpar\widctlpar\adjustright \b\f1\fs22\lang3082\cgrid \sbasedon0 \snext0 heading 1;}{\s2\keepn\nowidctlpar\widctlpar\adjustright \b\f1\fs22\ul\lang3082\cgrid \sbasedon0 \snext0 heading 2;}{\s3\keepn\nowidctlpar\widctlpar\adjustright \b\f1\ul\lang3082\cgrid \sbasedon0 \snext0 heading 3;}{\s4\keepn\nowidctlpar\widctlpar\adjustright \f1\fs22\ul\lang3082\cgrid \sbasedon0 \snext0 heading 4;}{\s5\keepn\nowidctlpar\widctlpar\adjustright \i\f1\fs22\lang3082\cgrid \sbasedon0 \snext0 heading 5;}{\s6\keepn\nowidctlpar\widctlpar\adjustright \b\f1\fs22\cf2\lang3082\cgrid \sbasedon0 \snext0 heading 6;}{\s7\keepn\nowidctlpar\widctlpar\adjustright \b\f1\fs22\cf1\lang3082\cgrid \sbasedon0 \snext0 heading 7;}{\*\cs10 \additive Default Paragraph Font;}{\s15\qc\nowidctlpar\widctlpar\adjustright \b\fs28\ul\lang3082\cgrid \sbasedon0 \snext15 Title;}{\s16\nowidctlpar\widctlpar\tqc\tx4320\tqr\tx8640\adjustright \fs20\lang3082\cgrid \sbasedon0 \snext16 header;}{\s17\nowidctlpar\widctlpar\tqc\tx4320\tqr\tx8640\adjustright \fs20\lang3082\cgrid \sbasedon0 \snext17 footer;}{\s18\fi-1440\li1440\nowidctlpar\widctlpar\adjustright \f1\fs22\lang3082\cgrid \sbasedon0 \snext18 Body Text 2;}{\s19\nowidctlpar\widctlpar\adjustright \b\f1\fs22\cf2\lang3082\cgrid \sbasedon0 \snext19 Body Text;}}{\info{\title Brood War Unit doc}{\author BLIZZARD ENTERTAINMENT}{\operator John Griffin}{\creatim\yr1999\mo4\dy8\hr12\min24}{\revtim\yr1999\mo4\dy8\hr12\min28}{\printim\yr1998\mo8\dy18\hr3\min56}{\version3}{\edmins4}{\nofpages6}{\nofwords1242}{\nofchars7082}{\*\company BLIZZARD ENTERTAINMENT}{\nofcharsws8697}{\vern71}}\widowctrl\ftnbj\aenddoc\lytprtmet\hyphcaps0\formshade\viewkind4\viewscale100\pgbrdrhead\pgbrdrfoot \fet0\sectd \linex0\headery709\footery709\colsx709\endnhere\sectdefaultcl {\header \pard\plain \s16\qc\nowidctlpar\widctlpar\tqc\tx4320\tqr\tx8640\adjustright \fs20\lang3082\cgrid {\b\f16\fs28\ul StarCraft: Brood War
+\par }{\b\f16\fs28 Especificación del diseño de unidades}{
+\par }}{\footer \pard\plain \s17\nowidctlpar\widctlpar\tqc\tx4320\tqr\tx8640\adjustright \fs20\lang3082\cgrid {\f1 Blizzard Entertainment}{\tab Page }{\field{\*\fldinst { PAGE }}{\fldrslt {\lang1024 1}}}{\tab }{\field{\*\fldinst { DATE }}{\fldrslt {\lang1024 12/14/98}}}{
+\par }}{\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang{\pntxta )}}{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl8\pnlcltr\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}\pard\plain \nowidctlpar\widctlpar\adjustright \fs20\lang3082\cgrid {\f1\cf6 \sect }\sectd \sbknone\linex0\headery709\footery709\cols2\colsx709\linebetcol\endnhere\sectdefaultcl \pard\plain \nowidctlpar\widctlpar\adjustright \fs20\lang3082\cgrid {\f1\fs22 NOMBRE DE UNIDAD: 
+\par }{\b\f1\fs22 MÉDICO}{\f1\fs22 
+\par RAZA:\tab \tab Terran
+\par RANGO:\tab Teniente primero
+\par 
+\par }\pard\plain \s4\keepn\nowidctlpar\widctlpar\outlinelevel3\adjustright \f1\fs22\ul\lang3082\cgrid {ESTADÍSTICAS VITALES
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \fs20\lang3082\cgrid {\f1\fs22 Puntos de ataque:\tab 60}{\f1 
+\par }{\f1\fs22 Clase de blindaje:\tab Ligero
+\par Blindaje:\tab \tab 1
+\par 
+\par }\pard\plain \s4\keepn\nowidctlpar\widctlpar\outlinelevel3\adjustright \f1\fs22\ul\lang3082\cgrid {COSTES
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \fs20\lang3082\cgrid {\f1\fs22 Mineral:\tab 50}{\f1 
+\par }{\f1\fs22 Gas:\tab \tab 25
+\par Alimento:\tab 1
+\par 
+\par }\pard\plain \s4\keepn\nowidctlpar\widctlpar\outlinelevel3\adjustright \f1\fs22\ul\lang3082\cgrid {ÁRBOL TECNOLÓGICO
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \fs20\lang3082\cgrid {\f1\fs22 Construido desde: Barracas
+\par Prerrequisito:\tab Academia
+\par 
+\par }\pard\plain \s4\keepn\nowidctlpar\widctlpar\outlinelevel3\adjustright \f1\fs22\ul\lang3082\cgrid {ARMAS
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \fs20\lang3082\cgrid {\f1\fs22 Sistema de armamento:\tab Ninguno
+\par Tipo de ataque:\tab \tab n/c\tab 
+\par Clase de daños:\tab \tab n/c
+\par Daños por dispersión:\tab n/c
+\par Daños:\tab \tab \tab n/c
+\par Bonificación:\tab \tab \tab n/c
+\par 
+\par 
+\par }\pard\plain \s4\keepn\nowidctlpar\widctlpar\outlinelevel3\adjustright \f1\fs22\ul\lang3082\cgrid {HECHIZOS/CAPACIDADES ESPECIALES
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \fs20\lang3082\cgrid {\f1\fs22 
+\par }{\b\f1\fs22 Curación (Hechizo)
+\par }{\f1\fs22 Coste del hechizo: 1 punto de maná por cada 2 puntos de vida curados.
+\par 
+\par Alcance: 2}{\f1 
+\par }\pard \fi-1440\li1440\nowidctlpar\widctlpar\adjustright {\f1\fs22 Descripción: El Médico empieza con este hechizo y puede lanzarlo sobre cualquier unidad de tierra orgánica para curar los daños.}{\f1 
+\par }\pard \nowidctlpar\widctlpar\adjustright {\f1\fs22 
+\par }{\b\f1\fs22 Restablecimiento (Hechizo)
+\par }{\f1\fs22 Coste del hechizo: 50
+\par Alcance: 6 \tab matrices
+\par Descripción: El Médico puede lanzar este hechizo sobre cualquier unidad para eliminar los efectos dañinos de un hechizo (no afecta al Campo de suspensión, pero incluye Bloqueo) 
+\par 
+\par }{\b\f1\fs22 Bengala óptica (Hechizo)
+\par }{\f1\fs22 Coste del hechizo: 75}{\f1 
+\par }{\f1\fs22 Alcance: 8 matrices
+\par Descripción: Hechizo dirigido. La unidad alcanzada verá su campo visual reducido en 1 matriz permanentemente (a menos que un Médico la restablezca). En el cuadro de información de la unidad afectada debe aparecer \lquote Ciego\rquote . También elimina la capacidad de detección si la unidad la tiene.}{\f1 
+\par }{\f1\fs22 
+\par 
+\par }\pard\plain \s4\keepn\nowidctlpar\widctlpar\outlinelevel3\adjustright \f1\fs22\ul\lang3082\cgrid {NUEVAS MEJORAS
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \fs20\lang3082\cgrid {\i\f1\fs22 Restablecimiento (Hechizo)
+\par }{\f1\fs22 Investigado en: \tab Academia}{\f1 
+\par }{\f1\fs22 Coste de investigación: 100m, 100g
+\par 
+\par }{\i\f1\fs22 Bengala óptica (Hechizo)
+\par }{\f1\fs22 Investigado en:\tab Academia
+\par Coste de investigación: 100m, 100g
+\par 
+\par }{\i\f1\fs22 Reactor Caduceo}{\f1\fs22  (+50 Energía médica)
+\par Investigado en: \tab Academia
+\par Coste de investigación: 150m, 150g\sect }\sectd \linex0\headery709\footery709\colsx709\endnhere\sectdefaultcl {\footer \pard\plain \s17\nowidctlpar\widctlpar\tqc\tx4320\tqr\tx8640\adjustright \fs20\lang3082\cgrid {Blizzard Entertainment\tab Page }{\field{\*\fldinst { PAGE }}{\fldrslt {\lang1024 2}}}{\tab }{\field{\*\fldinst { DATE }}{\fldrslt {\lang1024 12/14/98}}}{
+\par }}\pard\plain \nowidctlpar\widctlpar\adjustright \fs20\lang3082\cgrid {\f1\fs22 \sect }\sectd \sbknone\linex0\headery709\footery709\cols2\colsx709\linebetcol\endnhere\sectdefaultcl {\footer \pard\plain \s17\nowidctlpar\widctlpar\tqc\tx4320\tqr\tx8640\adjustright \fs20\lang3082\cgrid {Blizzard Entertainment\tab Page }{\field{\*\fldinst { PAGE }}{\fldrslt {\lang1024 3}}}{\tab }{\field{\*\fldinst { DATE }}{\fldrslt {\lang1024 12/14/98}}}{
+\par }}\pard\plain \nowidctlpar\widctlpar\adjustright \fs20\lang3082\cgrid {\f1\fs22 
+\par NOMBRE DE UNIDAD: 
+\par }{\b\f1\fs22 VALKIRIA TERRAN}{\f1\fs22 
+\par RAZA:\tab \tab Terran
+\par RANGO:\tab Teniente comandante
+\par 
+\par }\pard\plain \s4\keepn\nowidctlpar\widctlpar\outlinelevel3\adjustright \f1\fs22\ul\lang3082\cgrid {ESTADÍSTICAS VITALES
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \fs20\lang3082\cgrid {\f1\fs22 Puntos de ataque:\tab 200
+\par Clase de blindaje:\tab Pesado}{\f1 
+\par }{\f1\fs22 Blindaje:\tab \tab 2}{\b\f1 
+\par }{\f1\fs22 
+\par }\pard\plain \s4\keepn\nowidctlpar\widctlpar\outlinelevel3\adjustright \f1\fs22\ul\lang3082\cgrid {COSTES
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \fs20\lang3082\cgrid {\f1\fs22 Mineral:\tab 250}{\f1 
+\par }{\f1\fs22 Gas:\tab \tab 125}{\f1 
+\par }{\f1\fs22 Alimento:\tab 3
+\par 
+\par }\pard\plain \s4\keepn\nowidctlpar\widctlpar\outlinelevel3\adjustright \f1\fs22\ul\lang3082\cgrid {ÁRBOL TECNOLÓGICO
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \fs20\lang3082\cgrid {\f1\fs22 Construido desde:\tab Puerto estelar
+\par Prerrequisito:\tab Arsenal, Torre de control
+\par 
+\par }\pard\plain \s4\keepn\nowidctlpar\widctlpar\outlinelevel3\adjustright \f1\fs22\ul\lang3082\cgrid {ARMAS
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \fs20\lang3082\cgrid {\f1\fs22 Sistema de armamento: Cohetes Halo
+\par Tipo de ataque:\tab Sólo aéreo\tab 
+\par Clase de daños: Explosivos\tab 
+\par Daños por dispersión: Sí (Área pequeña)
+\par Daños: \tab 5 por misil}{\f1 
+\par }{\f1\fs22 Bonificación:\tab 1
+\par 
+\par 
+\par 
+\par 
+\par }{\f1\fs22\ul HECHIZOS/CAPACIDADES ESPECIALES
+\par }{\f1\fs22 
+\par }{\b\f1\fs22 Cohetes Halo}{\f1\fs22 
+\par Es el único ataque de la Valkiria. Es un ataque de tipo }{\f1\fs22\cf11 aire-aire}{\f1\fs22  que dispara una ráfaga de 8 pequeños misiles contra un objetivo. Los misiles alcanzan el objetivo y lo que lo rodea dentro de un área de 3 x 3 matrices. Cada misil causa ligeros daños por dispersión en el área del objetivo.
+\par 
+\par 
+\par }\pard\plain \s4\keepn\nowidctlpar\widctlpar\outlinelevel3\adjustright \f1\fs22\ul\lang3082\cgrid {NUEVAS MEJORAS
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \fs20\lang3082\cgrid {\i\f1\fs22 
+\par }{\b\f1\fs22 
+\par }{\i\f1\fs22 Ninguna}{\f1\fs22 \sect }\sectd \sbknone\linex0\headery709\footery709\cols2\colsx709\linebetcol\endnhere\sectdefaultcl \pard\plain \nowidctlpar\widctlpar\adjustright \fs20\lang3082\cgrid {\f1\fs22 
+\par 
+\par NOMBRE DE UNIDAD:
+\par }{\b\caps\f1\fs22 merodeador}{\f1\fs22 
+\par RAZA:\tab \tab Zerg
+\par RANGO:\tab n/c
+\par 
+\par }\pard\plain \s4\keepn\nowidctlpar\widctlpar\outlinelevel3\adjustright \f1\fs22\ul\lang3082\cgrid {ESTADÍSTICAS VITALES
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \fs20\lang3082\cgrid {\f1\fs22 Puntos de ataque:\tab 125
+\par Clase de blindaje:\tab Pesado
+\par Blindaje:\tab \tab 1
+\par 
+\par }\pard\plain \s4\keepn\nowidctlpar\widctlpar\outlinelevel3\adjustright \f1\fs22\ul\lang3082\cgrid {COSTES
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \fs20\lang3082\cgrid {\f1\fs22 Mineral:\tab 50\tab }{\f1 
+\par }{\f1\fs22 Gas:\tab \tab 100
+\par Alimento:\tab 2
+\par 
+\par }\pard\plain \s4\keepn\nowidctlpar\widctlpar\outlinelevel3\adjustright \f1\fs22\ul\lang3082\cgrid {ÁRBOL TECNOLÓGICO
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \fs20\lang3082\cgrid {\f1\fs22 Construido desde: Hidralisco
+\par Prerrequisito: Guarida, Investigación de aspecto
+\par 
+\par }\pard\plain \s4\keepn\nowidctlpar\widctlpar\outlinelevel3\adjustright \f1\fs22\ul\lang3082\cgrid {ARMAS
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \fs20\lang3082\cgrid {\f1\fs22 Sistema de armamento: Púas subterráneas
+\par Tipo de ataque: Sólo terrestre\tab 
+\par Clase de daños: Normal}{\f1 
+\par }{\f1\fs22 Daños por dispersión: Sí (Línea recta)
+\par Daños: \tab 20
+\par Bonificación:\tab 2
+\par 
+\par }{\f1\fs22\ul 
+\par 
+\par HECHIZOS/CAPACIDADES ESPECIALES
+\par }{\f1\fs22 
+\par }{\b\f1\fs22 Ataque estando enterrado
+\par }{\f1\fs22 El Merodeador se puede enterrar. Esto funciona exactamente igual que en el caso de otras unidades Zerg con capacidad de hacer madrigueras, pero mientras está enterrado, el Merodeador puede atacar. El Merodeador siempre tiene esta capacidad, no tiene que ser investigada.
+\par 
+\par }{\b\f1\fs22 Púas subterráneas}{\f1\fs22 
+\par El Merodeador sólo puede atacar mientras está enterrado. El ataque es una serie de púas que atraviesan el suelo en línea recta desde el Merodeador hasta el objetivo en su máximo alcance. Todas las unidades enemigas que se encuentren en la trayectoria de las púas sufrirán daños.
+\par 
+\par 
+\par }\pard\plain \s4\keepn\nowidctlpar\widctlpar\outlinelevel3\adjustright \f1\fs22\ul\lang3082\cgrid {NUEVAS MEJORAS
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \fs20\lang3082\cgrid {\f1\fs22 
+\par }\pard\plain \s5\keepn\nowidctlpar\widctlpar\outlinelevel4\adjustright \i\f1\fs22\lang3082\cgrid {Aspecto del Merodeador }{\i0 
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \fs20\lang3082\cgrid {\f1\fs22 Investigar en: Cueva del Hidralisco (después de la Guarida)
+\par Coste de investigación: 125m, 125g}{\f1 
+\par }{\f1\fs22 
+\par \sect }\sectd \sbknone\linex0\headery709\footery709\cols2\colsx709\linebetcol\endnhere\sectdefaultcl \pard\plain \nowidctlpar\widctlpar\adjustright \fs20\lang3082\cgrid {\f1\fs22 
+\par 
+\par NOMBRE DE UNIDAD: 
+\par }{\b\f1\fs22 DEVORADOR}{\f1\fs22 
+\par RAZA:\tab \tab Zerg
+\par RANGO:\tab n/c
+\par 
+\par }\pard\plain \s4\keepn\nowidctlpar\widctlpar\outlinelevel3\adjustright \f1\fs22\ul\lang3082\cgrid {ESTADÍSTICAS VITALES
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \fs20\lang3082\cgrid {\f1\fs22 Puntos de ataque:\tab 250
+\par Clase de blindaje:\tab Pesado
+\par }\pard\plain \s6\keepn\nowidctlpar\widctlpar\outlinelevel5\adjustright \b\f1\fs22\cf2\lang3082\cgrid {\b0\cf0 Blindaje:\tab \tab 2}{\b0\fs20\cf0 
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \fs20\lang3082\cgrid {\f1 
+\par }\pard\plain \s4\keepn\nowidctlpar\widctlpar\outlinelevel3\adjustright \f1\fs22\ul\lang3082\cgrid {COSTES
+\par }\pard\plain \s6\keepn\nowidctlpar\widctlpar\outlinelevel5\adjustright \b\f1\fs22\cf2\lang3082\cgrid {\b0\cf0 Mineral:\tab 150\tab 
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \fs20\lang3082\cgrid {\f1\fs22 Gas:\tab \tab 50
+\par Alimento:\tab 2
+\par 
+\par }\pard\plain \s4\keepn\nowidctlpar\widctlpar\outlinelevel3\adjustright \f1\fs22\ul\lang3082\cgrid {ÁRBOL TECNOLÓGICO
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \fs20\lang3082\cgrid {\f1\fs22 Construido desde:\tab Mutalisco
+\par Prerrequisito:\tab Espiral mayor
+\par 
+\par }\pard\plain \s4\keepn\nowidctlpar\widctlpar\outlinelevel3\adjustright \f1\fs22\ul\lang3082\cgrid {ARMAS
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \fs20\lang3082\cgrid {\f1\fs22 Sistema de armamento: Veneno corrosivo
+\par Tipo de ataque:\tab Sólo aéreo
+\par Clase de daños: Normal (especial)\tab 
+\par Daños por dispersión: No
+\par }\pard\plain \s19\fi-1440\li1440\nowidctlpar\widctlpar\adjustright \b\f1\fs22\cf2\lang3082\cgrid {\b0\cf0 Daños: \tab }{\b0\fs20\cf0 25
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \fs20\lang3082\cgrid {\f1\fs22 Bonificación:\tab }{\f1 2}{\f1\fs22 
+\par 
+\par 
+\par }{\f1\fs22\ul HECHIZOS/CAPACIDADES ESPECIALES
+\par }{\f1\fs22 
+\par }{\b\f1\fs22 Veneno corrosivo:}{\f1\fs22  El Devorador tiene un ataque que sólo afecta a las unidades aéreas. Causa daños a su objetivo y daños por dispersión a todos los objetivos de alrededor con un ácido corrosivo. Las unidades afectadas tardarán más en disparar y sufrirán más daños al ser atacadas.
+\par 
+\par 
+\par 
+\par 
+\par }\pard\plain \s4\keepn\nowidctlpar\widctlpar\outlinelevel3\adjustright \f1\fs22\ul\lang3082\cgrid {NUEVAS MEJORAS
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \fs20\lang3082\cgrid {\f1\fs22 
+\par Ninguna
+\par 
+\par 
+\par 
+\par \sect }\sectd \sbknone\linex0\headery709\footery709\cols2\colsx709\linebetcol\endnhere\sectdefaultcl \pard\plain \nowidctlpar\widctlpar\adjustright \fs20\lang3082\cgrid {\f1\fs22 
+\par 
+\par NOMBRE DE UNIDAD: 
+\par }{\b\f1\fs22 CORSARIO}{\f1\fs22 
+\par RAZA:\tab \tab Protoss
+\par RANGO:\tab n/c
+\par 
+\par }\pard\plain \s4\keepn\nowidctlpar\widctlpar\outlinelevel3\adjustright \f1\fs22\ul\lang3082\cgrid {ESTADÍSTICAS VITALES
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \fs20\lang3082\cgrid {\f1\fs22 Puntos de ataque:\tab 100
+\par Escudos:\tab \tab 80}{\f1 
+\par }{\f1\fs22 Clase de blindaje:\tab Medio
+\par Blindaje:\tab \tab 0
+\par 
+\par }\pard\plain \s4\keepn\nowidctlpar\widctlpar\outlinelevel3\adjustright \f1\fs22\ul\lang3082\cgrid {COSTES
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \fs20\lang3082\cgrid {\f1\fs22 Mineral:\tab 150\tab 
+\par Gas:\tab \tab 100
+\par Alimento:\tab 2
+\par 
+\par }\pard\plain \s4\keepn\nowidctlpar\widctlpar\outlinelevel3\adjustright \f1\fs22\ul\lang3082\cgrid {ÁRBOL TECNOLÓGICO
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \fs20\lang3082\cgrid {\f1\fs22 Construido desde:\tab Puerta estelar
+\par Prerrequisito:\tab \tab Ninguno
+\par 
+\par }\pard\plain \s4\keepn\nowidctlpar\widctlpar\outlinelevel3\adjustright \f1\fs22\ul\lang3082\cgrid {ARMAS
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \fs20\lang3082\cgrid {\f1\fs22 Sistema de armamento: Bengala de neutrones
+\par Tipo de ataque:\tab Sólo aéreo\tab 
+\par Clase de daños: Normal\tab 
+\par Daños por dispersión: Sí (Área pequeña)
+\par Daños: \tab 5
+\par Bonificación:\tab 1
+\par 
+\par 
+\par }{\f1\fs22\ul HECHIZOS/CAPACIDADES ESPECIALES
+\par }{\f1\fs22 
+\par }{\b\f1\fs22 Bengala de neutrones:}{\f1\fs22  El Corsario dispara ráfagas cortas y rápidas de energía fotónica que son muy eficaces contra grupos de pequeñas unidades voladoras.
+\par 
+\par }{\b\f1\fs22 Red Disruptora (Hechizo)
+\par }{\f1\fs22 Coste del hechizo: 125
+\par Alcance:}{\b\f1\fs22  }{\f1\fs22 9 matrices
+\par }\pard\plain \s19\nowidctlpar\widctlpar\adjustright \b\f1\fs22\cf2\lang3082\cgrid {\cf0 Descripción: }{\b0\cf0 Puede lanzar una red de energía con un pequeño radio de efecto que interrumpe todos los ataques que se estén produciendo en ese radio. Ninguna unidad de tierra, incluidos cañones fotónicos, colonias de esporas y búnkers, puede atacar mientras se encuentre en el radio de efecto de la Red.}{\cf0 
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \fs20\lang3082\cgrid {\f1\fs22 
+\par 
+\par }\pard\plain \s4\keepn\nowidctlpar\widctlpar\outlinelevel3\adjustright \f1\fs22\ul\lang3082\cgrid {NUEVAS MEJORAS
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \fs20\lang3082\cgrid {\i\f1\fs22 
+\par }\pard\plain \s5\keepn\nowidctlpar\widctlpar\outlinelevel4\adjustright \i\f1\fs22\lang3082\cgrid {Red Disruptora
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \fs20\lang3082\cgrid {\f1\fs22 Investigación en: Baliza de la Flota
+\par Coste de investigación: 200m, 200g}{\f1  
+\par }{\f1\fs22 
+\par }{\i\f1\fs22 Joya Argus}{\f1\fs22  (+50 capacidad maná)
+\par Investigación en: Baliza de la Flota
+\par Coste de investigación: 100m, 100g \sect }\sectd \sbknone\linex0\headery709\footery709\cols2\colsx709\linebetcol\endnhere\sectdefaultcl \pard\plain \nowidctlpar\widctlpar\adjustright \fs20\lang3082\cgrid {\f1\fs22 
+\par 
+\par NOMBRE DE UNIDAD: 
+\par }{\b\f1\fs22 TEMPLARIO TÉTRICO}{\f1\fs22 
+\par RAZA:\tab \tab Protoss
+\par RANGO:\tab Ninguno
+\par 
+\par }\pard\plain \s4\keepn\nowidctlpar\widctlpar\outlinelevel3\adjustright \f1\fs22\ul\lang3082\cgrid {ESTADÍSTICAS VITALES
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \fs20\lang3082\cgrid {\f1\fs22 Puntos de ataque:\tab 80}{\f1 
+\par }{\f1\fs22 Escudos:\tab \tab 40}{\f1 
+\par }{\f1\fs22 Clase de blindaje:\tab Ligero
+\par Blindaje:\tab \tab 1
+\par 
+\par }\pard\plain \s4\keepn\nowidctlpar\widctlpar\outlinelevel3\adjustright \f1\fs22\ul\lang3082\cgrid {COSTES
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \fs20\lang3082\cgrid {\f1\fs22 Mineral:\tab 125}{\f1 
+\par }{\f1\fs22 Gas:\tab \tab 100
+\par Alimento:\tab 2}{\f1 
+\par }{\f1\fs22 
+\par }\pard\plain \s4\keepn\nowidctlpar\widctlpar\outlinelevel3\adjustright \f1\fs22\ul\lang3082\cgrid {ÁRBOL TECNOLÓGICO
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \fs20\lang3082\cgrid {\f1\fs22 Construido desde:\tab Entrada
+\par Prerrequisito:\tab Archivos Templarios
+\par 
+\par }\pard\plain \s4\keepn\nowidctlpar\widctlpar\outlinelevel3\adjustright \f1\fs22\ul\lang3082\cgrid {ARMAS
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \fs20\lang3082\cgrid {\f1\fs22 Sistema de armamento: Espadas de distorsión
+\par Tipo de ataque:\tab Sólo terrestre
+\par Clase de daños: Normal\tab 
+\par Daños por dispersión: No
+\par Daños: \tab 40}{\f1 
+\par }{\f1\fs22 Bonificación:\tab 3
+\par }{\f1\fs22\ul 
+\par 
+\par 
+\par HECHIZOS/CAPACIDADES ESPECIALES
+\par }{\f1\fs22 
+\par }{\b\f1\fs22 Camuflaje permanente}{\f1\fs22  
+\par Los Templarios Tétricos siempre están camuflados; como el Observador, sólo pueden ser atacados si son detectados.
+\par 
+\par }\pard\plain \s6\keepn\nowidctlpar\widctlpar\outlinelevel5\adjustright \b\f1\fs22\cf2\lang3082\cgrid {\cf0 Fusión de Arconte Tétrico 
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \fs20\lang3082\cgrid {\f1\fs22 Dos Templarios Tétricos pueden fusionarse formando un Arconte Tétrico.
+\par 
+\par 
+\par }\pard\plain \s4\keepn\nowidctlpar\widctlpar\outlinelevel3\adjustright \f1\fs22\ul\lang3082\cgrid {NUEVAS MEJORAS
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \fs20\lang3082\cgrid {\f1\fs22 
+\par Ninguna
+\par 
+\par 
+\par NOMBRE DE UNIDAD: 
+\par }{\b\f1\fs22 ARCONTE TÉTRICO}{\f1\fs22 
+\par RAZA:\tab \tab Protoss
+\par RANGO:\tab n/c
+\par 
+\par }\pard\plain \s4\keepn\nowidctlpar\widctlpar\outlinelevel3\adjustright \f1\fs22\ul\lang3082\cgrid {ESTADÍSTICAS VITALES
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \fs20\lang3082\cgrid {\f1\fs22 Puntos de ataque:\tab 25
+\par Escudos:\tab \tab 200
+\par Clase de blindaje:\tab Pesado
+\par Blindaje:\tab \tab 1
+\par 
+\par }\pard\plain \s4\keepn\nowidctlpar\widctlpar\outlinelevel3\adjustright \f1\fs22\ul\lang3082\cgrid {COSTES
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \fs20\lang3082\cgrid {\f1\fs22 Mineral:\tab 0\tab 
+\par Gas:\tab \tab 0
+\par Alimento:\tab 4}{\f1 
+\par }{\f1\fs22 
+\par }\pard\plain \s4\keepn\nowidctlpar\widctlpar\outlinelevel3\adjustright \f1\fs22\ul\lang3082\cgrid {ÁRBOL TECNOLÓGICO
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \fs20\lang3082\cgrid {\f1\fs22 Construido desde: 2 Templarios Tétricos
+\par Prerrequisito:\tab Ninguno
+\par 
+\par }\pard\plain \s4\keepn\nowidctlpar\widctlpar\outlinelevel3\adjustright \f1\fs22\ul\lang3082\cgrid {ARMAS
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \fs20\lang3082\cgrid {\f1\fs22 Sistema de armamento: Ninguno
+\par Tipo de ataque:\tab n/c\tab \tab 
+\par Clase de daños: n/c
+\par Daños por dispersión: n/c
+\par Daños: \tab n/c
+\par Bonificación:\tab n/c
+\par }{\f1\fs22\ul 
+\par 
+\par HECHIZOS/CAPACIDADES ESPECIALES
+\par }{\f1\fs22 
+\par }{\b\f1\fs22 Retroalimentación (Hechizo):
+\par }\pard\plain \s6\keepn\nowidctlpar\widctlpar\outlinelevel5\adjustright \b\f1\fs22\cf2\lang3082\cgrid {\b0\cf0 Coste del hechizo: 50
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \fs20\lang3082\cgrid {\f1\fs22 Alcance: 8 matrices
+\par Descripción: Hechizo dirigido que cuando se lanza sobre una unidad, ésta pierde todo su maná y sufre una cantidad de daños igual al maná perdido.
+\par 
+\par }{\b\f1\fs22 Control mental (Hechizo):
+\par }{\f1\fs22 Coste del hechizo: 150 + Escudos}{\f1 
+\par }{\f1\fs22 Alcance: 6 matrices
+\par Descripción: El Arconte Tétrico puede hacerse con el control de cualquier unidad al lanzar este hechizo. El hechizo cuesta 200 puntos de maná y agota los escudos del Arconte Tétrico cuando se lanza.
+\par 
+\par }{\b\f1\fs22 Vórtice (Hechizo):
+\par }{\f1\fs22 Coste del hechizo: 100
+\par Alcance: 8 matrices
+\par Descripción: Un radio de efecto del hechizo (del mismo tamaño que Entrampar) que deja inconscientes (no se pueden mover ni atacar) a todas las unidades orgánicas durante varios segundos.
+\par 
+\par }\pard\plain \s4\keepn\nowidctlpar\widctlpar\outlinelevel3\adjustright \f1\fs22\ul\lang3082\cgrid {NUEVAS MEJORAS
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \fs20\lang3082\cgrid {\i\f1\fs22 
+\par }\pard\plain \s5\keepn\nowidctlpar\widctlpar\outlinelevel4\adjustright \i\f1\fs22\lang3082\cgrid {Vórtice
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \fs20\lang3082\cgrid {\f1\fs22 Investigación en: Archivos Templarios
+\par Coste de investigación: 100m, 100g
+\par 
+\par }\pard\plain \s5\keepn\nowidctlpar\widctlpar\outlinelevel4\adjustright \i\f1\fs22\lang3082\cgrid {Control mental
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \fs20\lang3082\cgrid {\f1\fs22 Investigación en: Archivos Templarios
+\par Coste de investigación: 200m, 200g
+\par 
+\par }{\i\f1\fs22 Talismán Argus }{\f1\fs22 (+50 capacidad maná)
+\par Investigación en: Archivos Templarios
+\par Coste de investigación: 150m, 150g 
+\par \sect }\sectd \sbknone\linex0\headery709\footery709\colsx709\endnhere\sectdefaultcl \pard\plain \nowidctlpar\widctlpar\adjustright \fs20\lang3082\cgrid {
+\par 
+\par 
+\par }\pard\plain \s3\keepn\nowidctlpar\widctlpar\outlinelevel2\adjustright \b\f1\ul\lang3082\cgrid {NUEVAS MEJORAS DE UNIDADES EXISTENTES
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \fs20\lang3082\cgrid {\f1\fs22 
+\par }\pard\plain \s4\keepn\nowidctlpar\widctlpar\outlinelevel3\adjustright \f1\fs22\ul\lang3082\cgrid {ULTRALISCO
+\par }\pard\plain \s6\keepn\nowidctlpar\widctlpar\outlinelevel5\adjustright \b\f1\fs22\cf2\lang3082\cgrid {\cf0 Blindaje quitinoso
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \fs20\lang3082\cgrid {\f1\fs22 (Blindaje mejorado del Ultralisco)
+\par Investigado en: Caverna del Ultralisco
+\par Coste de investigación: 150m, 150g
+\par Descripción: Todos los Ultraliscos del jugador aumentarán su blindaje en +2.}{\f1 
+\par }{\f1\fs22 
+\par }{
+\par }\pard\plain \s4\keepn\nowidctlpar\widctlpar\outlinelevel3\adjustright \f1\fs22\ul\lang3082\cgrid {ULTRALISCO
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \fs20\lang3082\cgrid {\b\f1\fs22 Síntesis anabólica
+\par }{\f1\fs22 (Movimiento más rápido del Ultralisco)
+\par Investigado en: Caverna del Ultralisco
+\par Coste de investigación: 200m, 200g
+\par Descripción: Aumentará enormemente la velocidad de todos los Ultraliscos. 
+\par }{
+\par 
+\par }\pard\plain \s4\keepn\nowidctlpar\widctlpar\outlinelevel3\adjustright \f1\fs22\ul\lang3082\cgrid {GOLIAT
+\par }\pard\plain \s7\keepn\nowidctlpar\widctlpar\outlinelevel6\adjustright \b\f1\fs22\cf1\lang3082\cgrid {\cf0 Aceleradores Caronte
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \fs20\lang3082\cgrid {\f1\fs22 (Aumento del alcance de los misiles del Goliat)
+\par Investigado en: Taller de maquinaria (también requiere Arsenal)
+\par Coste de investigación: 150m, 150g
+\par Descripción: Aumentará el alcance del ataque aéreo del Goliat. No aumenta el alcance de su ataque terrestre. 
+\par }{
+\par 
+\par 
+\par }\pard\plain \s16\nowidctlpar\widctlpar\adjustright \fs20\lang3082\cgrid {
+\par }}

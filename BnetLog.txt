@@ -1,0 +1,4 @@
+11/26 20:53:09.018  Connecting to Battle.net...
+11/26 20:53:09.108      querying gateway
+11/26 20:53:10.108      connection to server canceled
+11/26 20:53:10.138  Could not connect to Battle.net

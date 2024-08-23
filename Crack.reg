@@ -1,0 +1,60 @@
+REGEDIT4
+
+[HKEY_LOCAL_MACHINE\Software\Blizzard Entertainment\Starcraft]
+"InstallPath"="C:\\Games\\Starcraft"
+"StarEdit"="C:\\Games\\Starcraft"
+"StarCD"="."
+"Program"="C:\\GAMES\\STARCRAFT\\Starcraft.exe"
+"Retail"="y"
+"Brood War"="y"
+"Recent Maps"=hex(7):43,3a,5c,47,41,4d,45,53,5c,53,54,41,52,43,52,41,46,54,5c,\
+  6d,61,70,73,5c,73,63,65,6e,61,72,69,6f,5c,5b,20,20,20,24,24,24,24,4e,65,77,\
+  20,49,63,65,20,48,75,6e,74,65,72,24,24,24,24,2e,73,63,78,00,43,3a,5c,47,41,\
+  4d,45,53,5c,53,54,41,52,43,52,41,46,54,5c,6d,61,70,73,5c,73,63,65,6e,61,72,\
+  69,6f,5c,5b,20,20,20,24,24,24,24,4e,65,77,20,49,63,65,20,48,75,6e,74,65,72,\
+  24,24,24,2e,73,63,78,00,43,3a,5c,47,41,4d,45,53,5c,53,54,41,52,43,52,41,46,\
+  54,5c,6d,61,70,73,5c,28,32,29,43,68,61,6c,6c,65,6e,67,65,72,2e,73,63,6d,00,\
+  43,3a,5c,47,41,4d,45,53,5c,53,54,41,52,43,52,41,46,54,5c,6d,61,70,73,5c,42,\
+  72,6f,6f,64,57,61,72,5c,28,32,29,41,73,74,72,61,6c,20,42,61,6c,61,6e,63,65,\
+  2e,73,63,6d,00,43,3a,5c,47,41,4d,45,53,5c,53,54,41,52,43,52,41,46,54,5c,6d,\
+  61,70,73,5c,28,34,29,42,72,69,64,67,65,20,54,6f,6f,20,4e,65,61,72,2e,73,63,\
+  6d,00,00
+"Game Type"="Tomar la bandera en equipo"
+"Game Speed"="7"
+"Game Subtype"="4"
+"Gamma"=dword:0000008c
+"ColorCycle"=dword:00000001
+"UnitPortraits"=dword:00000002
+"speed"=dword:00000006
+"mscroll"=dword:00000003
+"kscroll"=dword:00000003
+"m_mscroll"=dword:00000004
+"m_kscroll"=dword:00000005
+"music"=dword:00000019
+"sfx"=dword:00000032
+"tipnum"=dword:00000001
+"intro"=dword:00000200
+"introX"=dword:00000000
+"unitspeech"=dword:00000001
+"unitnoise"=dword:00000002
+"bldgnoise"=dword:00000004
+"tip"=dword:00000100
+"trigtext"=dword:00000000
+"Custom Type"="Todos contra todos"
+
+[HKEY_LOCAL_MACHINE\Software\Blizzard Entertainment\Starcraft\DelOpt0]
+"Path0"="C:\\Games\\Starcraft\\characters"
+"Path1"="C:\\Games\\Starcraft\\characters"
+"File0"="spc"
+"File1"="mpc"
+
+[HKEY_LOCAL_MACHINE\Software\Blizzard Entertainment\Starcraft\DelOpt1]
+"Path0"="C:\\Games\\Starcraft\\save"
+"Path2"="C:\\Games\\Starcraft\\save"
+"Path1"="C:\\Games\\Starcraft\\maps\\save"
+"Path3"="C:\\Games\\Starcraft\\maps\\save"
+"File0"="sng"
+"File1"="mlt"
+"File2"="snx"
+"File3"="mlx"
+
